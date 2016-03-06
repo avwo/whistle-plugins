@@ -1,2 +1,2 @@
 # whistle-plugins
-whistle插件集合
+see: [https://github.com/whistle-plugins](https://github.com/whistle-plugins)
